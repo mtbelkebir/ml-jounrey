@@ -1,0 +1,1 @@
+This repository is just to show my maching learning journey by showing the concepts i learn by implementing the algorithms in Octave.
